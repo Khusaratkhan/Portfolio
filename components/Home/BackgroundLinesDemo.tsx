@@ -43,7 +43,7 @@ export function BackgroundLinesDemo() {
           <span
             className={`text-gradient text-3xl capitalize ${sora_font.className} md:text-[80px]  lg:hidden`}
           >
-           Khusarat Jhan Khan
+           Khusarat Jahan Khan
           </span>
 
           <br />

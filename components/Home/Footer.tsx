@@ -43,7 +43,7 @@ const Footer = () => {
             <FaRegHeart className="text-shade" />
           )}
         </span>
-        by Khusarat jhan khan
+        by Khusarat jahan khan
       </h2>
       {isConfettiActive && (
         <div className="fixed inset-0 pointer-events-none z-50">
